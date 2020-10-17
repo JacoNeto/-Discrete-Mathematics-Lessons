@@ -1,0 +1,3 @@
+﻿  Ativ1.cpp
+C:\Users\jacon\source\repos\ExerciciosMatDis\ExerciciosMatDis\Ativ1.cpp(26,17): warning C4244:  '=': conversão de 'double' para 'int', possível perda de dados
+  ExerciciosMatDis.vcxproj -> C:\Users\jacon\source\repos\ExerciciosMatDis\Debug\ExerciciosMatDis.exe
